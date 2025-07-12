@@ -1,1 +1,1 @@
-# AofGoTest test1
+Version 1.0V
